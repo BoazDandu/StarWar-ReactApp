@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BoazDandu/StarWar-ReactApp/static/css/main.0406be7f.css",
+    "main.js": "/BoazDandu/StarWar-ReactApp/static/js/main.f1ffab48.js",
+    "static/js/787.28cb0dcd.chunk.js": "/BoazDandu/StarWar-ReactApp/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/BoazDandu/StarWar-ReactApp/index.html",
+    "main.0406be7f.css.map": "/BoazDandu/StarWar-ReactApp/static/css/main.0406be7f.css.map",
+    "main.f1ffab48.js.map": "/BoazDandu/StarWar-ReactApp/static/js/main.f1ffab48.js.map",
+    "787.28cb0dcd.chunk.js.map": "/BoazDandu/StarWar-ReactApp/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0406be7f.css",
+    "static/js/main.f1ffab48.js"
+  ]
+}
